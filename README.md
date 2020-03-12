@@ -1,0 +1,2 @@
+# laravel_broadcast_sample
+おもしろLaravel機能
